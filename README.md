@@ -18,10 +18,6 @@ junior high School (12-15)
 
 音や動きを動画で見ることで、より身近に沖縄の文化を感じてもらえることを目的とする。また、同時に回答を模索する過程で情報検索能力も養う。
 
-![Okinawa.jpg](blob:4f8e1582-6b0a-4f87-b91c-043fac9e7c9d)
-
-
-
 ![Okinawa.jpg](https://raw.github.com/FuhitoAbe/learn-okinawan-culture/master/gitfab/resources/Okinawa.jpg)
 ---
 #Educational Effect
